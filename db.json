@@ -1,0 +1,32 @@
+{
+  "EmployeeList": [
+    {
+      "id": "55984559",
+      "EmployeeImage": "https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_account_circle_48px-512.png",
+      "EmployeeID": "552548",
+      "Name": "Chandan Kumar Malik",
+      "EmployeeEmail": "chandankumar.malik@zf.com",
+      "EmployeePhone": "8847885106",
+      "CoreSkills": "Node js , react js, vue js",
+      "AdditionalSkills": "c++",
+      "Division": "DI",
+      "ReportingManager": "Menaskhi A",
+      "Status": true,
+      "popup": true
+    },
+    {
+      "id": "71548454",
+      "EmployeeImage": "https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_account_circle_48px-512.png",
+      "EmployeeID": "552550",
+      "Name": "Chandan Kumar Malik",
+      "EmployeeEmail": "chandankumar.malik@zf.com",
+      "EmployeePhone": "8847885106",
+      "CoreSkills": "Node js , react js, vue js",
+      "AdditionalSkills": "c++",
+      "Division": "DI",
+      "ReportingManager": "Menaskhi A",
+      "Status": false,
+      "popup": true
+    }
+  ]
+}
